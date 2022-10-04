@@ -24,7 +24,7 @@ Cypress.Commands.add('login', () => {
         cy.get('#next').click()
         cy.get('#password').type(password)
         cy.get('#signin').click()
-        cy.get('span a[target="_blank"]').click()
+        //cy.get('span a[target="_blank"]').click()
     })
 })
 // -- This is a dual command --
