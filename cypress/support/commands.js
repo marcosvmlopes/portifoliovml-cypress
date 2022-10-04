@@ -17,7 +17,7 @@
 // Cypress.Commands.add('drag', { prevSubject: 'element'}, (subject, options) => { ... })
 Cypress.Commands.add('login', () => {
     var email = 'marcos.vmlopes@proton.me'
-    var password = 'Port@123'
+    var password = 'Portifo@458'
     cy.session([email, password], () => {
         cy.visit('/')
         cy.get('#email').type(email)
