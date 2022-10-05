@@ -2,13 +2,14 @@
 > Esse é um exemplo de como montar uma estrutura inicial de testes automáticos web com o auxílio do [Cypress.io][cy], o modelo de escrita de cenários foi o padrão BDD com as regras gramaticais do Gherkin.
 > 
 
+![emExecucao](https://github.com/marcosvmlopes/portifoliovml-cypress/blob/main/apresentacao.gif)
 
 
 ## Instalação
 
 A IDE escolhida foi o [VS Code][vs].
 
-Instale no Mac, Linux ou Windows seguindo as instruções da documentação do [Cypress.io][cyDOC] ou através da documentação presente no site oficial [cypress.io-oficial][cypress.io]:
+Instale no Mac, Linux ou Windows seguindo as instruções da documentação do [Cypress.io][cyDOC].
 
 
 ## Exemplo de uso
