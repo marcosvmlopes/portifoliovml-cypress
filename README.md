@@ -1,5 +1,5 @@
 # Projeto de automação Web adotando o framework Cypress [![Build Status]
-> Esse é um exemplo de como montar uma estrutura inicial de testes automáticos web com o auxílio do [Cypress.io][cy] e do [cypress-cucumber-preprocessor][cucumber] que dá suporte para a escrita dos cenários com as regras gramaticais do Gherkin.
+> Esse é um exemplo de como montar uma estrutura inicial de testes automáticos web com o auxílio do [Cypress.io][cy], o modelo de escrita de cenários foi o padrão BDD com as regras gramaticais do Gherkin.
 > 
 
 
@@ -8,22 +8,24 @@
 
 A IDE escolhida foi o [VS Code][vs].
 
-Instale no Mac, Linux ou Windows seguindo as instruções da documentação do [Cypress.io][cyDOC] e do [cypress-cucumber-preprocessor][cucumber]:
+Instale no Mac, Linux ou Windows seguindo as instruções da documentação do [Cypress.io][cyDOC] ou através da documentação presente no site oficial [cypress.io-oficial][cypress.io]:
 
 
 ## Exemplo de uso
 
 Com todos as dependências instaladas, clone o projeto e execute esse comando:
 
+Comando para rodar o teste apenas atraves do terminal
 ```sh
 npx cypress run --browser chrome --no-exit
 ```
-
+Comando para rodar usando a plataforma visual Cypress.io
+```sh
+npm run test 
+```
 Pronto, o projeto será executado em sua máquina.
-
-Grato pela visita! =D
 
 [cy]:https://github.com/cypress-io/cypress 
 [cyDOC]:https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements
-[cucumber]: https://github.com/TheBrainFamily/cypress-cucumber-preprocessor
+[cypress.io]: https://www.cypress.io/
 [vs]: https://code.visualstudio.com/
