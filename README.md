@@ -1,4 +1,4 @@
-# Projeto de automação Web adotando o framework Cypress [![Build Status]
+# Projeto de automação Web adotando o framework Cypress!
 > Esse é um exemplo de como montar uma estrutura inicial de testes automáticos web com o auxílio do [Cypress.io][cy], o modelo de escrita de cenários foi o padrão BDD com as regras gramaticais do Gherkin.
 > 
 
