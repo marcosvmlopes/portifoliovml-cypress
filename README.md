@@ -4,6 +4,8 @@
 
 ![emExecucao](https://github.com/marcosvmlopes/portifoliovml-cypress/blob/main/apresentacao.gif)
 
+### Video de apresentação completo no youtybe
+[video completo][vd]
 
 ## Instalação
 
@@ -30,3 +32,4 @@ Pronto, o projeto será executado em sua máquina.
 [cyDOC]:https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements
 [cypress.io]: https://www.cypress.io/
 [vs]: https://code.visualstudio.com/
+[vd]: https://www.youtube.com/watch?v=qAt_mUykUYY
